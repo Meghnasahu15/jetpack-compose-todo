@@ -1,8 +1,22 @@
-# To-Do App with Jetpack Compose MVVM - Android Development
+# 📝 Jetpack Compose To-Do App
 
-<p>
-  <a href="https://stevdza-san.com/p/to-do-app-with-jetpack-compose-mvvm-android-development" align="center">Online Course</a>
-</p>
-<p align="center">
-  <img src="https://i.postimg.cc/hjQcZ4d4/Skillshare.png" href="https://youtu.be/ZNcenH0jnQM">
-</p>
+A beginner-friendly To-Do Android app built using Kotlin and Jetpack Compose.
+
+## ✨ Features
+
+- Add and delete tasks
+- Persist data using Room database
+- Clean MVVM architecture
+- Modern UI with Jetpack Compose
+
+## 🔧 Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- Room DB
+- ViewModel, Repository
+
+---
+
+> Based on public open-source resources for learning purposes.
+> Uploaded and maintained by [Meghnasahu15](https://github.com/Meghnasahu15)
