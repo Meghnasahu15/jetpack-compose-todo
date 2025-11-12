@@ -11,9 +11,6 @@ A beginner-friendly To-Do Android app built using Kotlin and Jetpack Compose.
 
 ## 🔧 Tech Stack
 
-
-
-
 - Kotlin
 - Jetpack Compose
 - Room DB
