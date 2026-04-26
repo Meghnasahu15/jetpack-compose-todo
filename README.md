@@ -16,6 +16,15 @@ A beginner-friendly To-Do Android app built using Kotlin and Jetpack Compose.
 - Room DB
 - ViewModel, Repository
 
+
+
+
+
+
+
+
+
+
 ---
 
 > Based on public open-source resources for learning purposes.
