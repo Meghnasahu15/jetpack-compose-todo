@@ -17,28 +17,6 @@ A beginner-friendly To-Do Android app built using Kotlin and Jetpack Compose.
 - ViewModel, Repository
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 > Based on public open-source resources for learning purposes.
