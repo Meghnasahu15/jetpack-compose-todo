@@ -8,5 +8,10 @@ dependencyResolutionManagement {
 }
 
 
+
+
+
+
+
 rootProject.name = "To-Do Compose"
 include ':app'
