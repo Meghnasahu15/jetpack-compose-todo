@@ -21,29 +21,6 @@
 ##
 ##  Gradle start up script for UN*X
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##
 
 
